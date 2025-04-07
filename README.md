@@ -26,6 +26,6 @@ We also created the control panel and installed all of the necessary components 
 
 ![Control Panel Pieces](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8216.jpeg)
 
-<img src="https://raw.githubusercontent.com/ecass114/che525instrumentation/refs/heads/main/Control%20Panel%20Image.jpg" width="450" height="640">
+<img src="https://raw.githubusercontent.com/ecass114/che525instrumentation/refs/heads/main/Control%20Panel%20Image.jpg" width="500" height="690">
 
 ![Students wiring Control Panel](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8266.jpeg)
