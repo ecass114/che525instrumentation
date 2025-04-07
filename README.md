@@ -16,11 +16,16 @@ The instruments tag and specifications are shown in the table below.
 | Level Sensor | LIT525A | Endress + Hauser | Micropilot FMR63B |
 | RTD | TE525A | Burns Engineering | Series 200 |
 
-![](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8223.jpeg)
-![](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8272.jpeg)
-![](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8271.jpeg)
+![Instruments](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8223.jpeg)
+
+![Instruments being wired](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8272.jpeg)
+
+![Students completing wiring](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8271.jpeg)
 
 We also created the control panel and installed all of the necessary components to control the new instrumentation through the DeltaV system.
 
-![](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8216.jpeg)
-![](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8266.jpeg)
+![Control Panel Pieces](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8216.jpeg)
+
+<img src="https://raw.githubusercontent.com/ecass114/che525instrumentation/refs/heads/main/Control%20Panel%20Image.jpg" width="450" height="640">
+
+![Students wiring Control Panel](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/refs/heads/master/2025-install/IMG_8266.jpeg)
